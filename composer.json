@@ -22,6 +22,7 @@
     },
     "require": {
         "clarkwinkelmann/flarum-ext-first-post-approval": "^1.0",
+        "clarkwinkelmann/flarum-ext-mass-actions": "^1.1",
         "flarum-lang/german": "*",
         "flarum/approval": "*",
         "flarum/bbcode": "*",
@@ -40,6 +41,8 @@
         "flarum/subscriptions": "*",
         "flarum/suspend": "*",
         "flarum/tags": "*",
+        "fof/polls": "^1.2",
+        "fof/recaptcha": "^1.1",
         "fof/upload": "*"
     },
     "config": {
